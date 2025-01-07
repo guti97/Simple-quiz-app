@@ -4,7 +4,7 @@ A quiz app created with a GUI in **Python** using **Tkinter**.
 
 ## Description
 
-To access the quiz app, users need to log in with a username and password. When a user logs in for the first time, they are prompted to create a new account by providing a username and password. The username and password are then securely saved in a local database file using ***SQLite**. For subsequent logins, users can simply enter their credentials to access the app. The login system ensures that only registered users can participate in the quiz, providing a personalized experience and tracking individual scores.
+To access the quiz app, users need to log in with a username and password. When a user logs in for the first time, they are prompted to create a new account by providing a username and password. The username and password are then securely saved in a local database file using **SQLite**. For subsequent logins, users can simply enter their credentials to access the app. The login system ensures that only registered users can participate in the quiz, providing a personalized experience and tracking individual scores.
 
 This simple quiz app allows users to test their knowledge of the Royal Family. The app presents multiple-choice questions, and users can select their answers by clicking on the options. The app then provides immediate feedback on whether the selected answer is correct or incorrect (with tone). The quiz continues until all 30 questions are answered, and a final score is displayed at the end. The app is designed with a graphical interface using **Tkinter**, making it easy to navigate and interact with.
 
